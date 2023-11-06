@@ -1,7 +1,7 @@
 # QTSOC-WORKSHOP-2022 - Quantum Machine Learning
 
 
-![image.png](https://github.com/Louisanity/QTSOC-WORKSHOP-2022/blob/3d4be8b33efeb9536f81e182c602ca5b249dc068/QTSOC_2nd_WS_FLYER.PNG)
+![image.png](https://github.com/Louisanity/QTSOC-WORKSHOP-2023/blob/main/QTSOC_QML_Flyer2-23.png)
 
 November 17th - QTSoc QML Workshop
 
