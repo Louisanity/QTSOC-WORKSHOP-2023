@@ -15,9 +15,9 @@ This workshop will cover the following topics associated with quantum machine le
 
 The promising application for QML can be applied to Financial analysis, Fraud Detection and Imaging Processing etc with a higher performance than classical ML.
 
-When: November 17th (Thursday)
+When: November 6th (Monday)
 
-Where: Blackett 1004 / Virtual
+Where: RSM G20 
 
 ![image.png](https://github.com/Louisanity/QTSOC-WORKSHOP-2022/blob/171e555805a7f45f1dd7998e8957864da5ebb980/QTSoc.png)
 
