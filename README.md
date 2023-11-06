@@ -3,15 +3,17 @@
 
 ![image.png](https://github.com/Louisanity/QTSOC-WORKSHOP-2023/blob/main/QTSOC_QML_Flyer2-23.png)
 
-November 17th - QTSoc QML Workshop
+November 6th - QTSoc QML Workshop
 
 This workshop will cover the following topics associated with quantum machine learning (QML):
 
-(1) Quantum Kernel Learning
+(1) Introduction of Quantum Computing
 
-(2) Quantum Neuron Network
+(2) Quantum Kernel Learning
 
-(3) Quantum Transfer Learning
+(3) Quantum Neuron Network
+
+(4) Quantum Transfer Learning
 
 The promising application for QML can be applied to Financial analysis, Fraud Detection and Imaging Processing etc with a higher performance than classical ML.
 
